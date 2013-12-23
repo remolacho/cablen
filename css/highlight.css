@@ -1,0 +1,108 @@
+﻿/* General Styles*/
+
+img { 
+border: none; 
+
+}
+a { 
+outline: none; 
+}
+
+body { 
+margin: 0; 
+}
+
+/* highlight Styles */
+
+#highlight { 
+width: 55%; 
+height: 280px; 
+background: url(../img/highlight/loading.gif) center center no-repeat; 
+font-family: Arial, Helvetica, sans-serif;  
+}
+
+#highlight img { 
+border: none; 
+
+position: absolute; 
+overflow: hidden; 
+filter: alpha(opacity=0); 
+opacity: 0; 
+-moz-opacity:0; 
+
+
+
+}
+
+#highlight .navegationbg { 
+width: 55%;  
+margin-top: 230px; 
+
+position: absolute;
+overflow: hidden; 
+z-index: 5; 
+background: url(../img/highlight/bg.gif) repeat-x; 
+height: 50px; 
+filter: alpha(opacity=80); 
+opacity: .8; 
+-moz-opacity:0.8; 
+
+
+}
+
+#highlight #navegation 
+{ 
+width: 55%; 
+margin-top: 230px;
+
+position: absolute;
+overflow: hidden; 
+z-index: 6; 
+border-top: solid 1px #535353; 
+height: 48px; 
+
+	
+
+}
+
+#highlight #navegation p { 
+margin: 0; 
+width: 25%; 
+float: left; 
+height: 50px; 
+font-size: 0.5em; 
+line-height: 1.3em; 
+color: white; 
+background: url(../ing/highlight/border.gif) repeat-y top right; 
+line-height: 1.5em; 
+
+
+}
+
+#highlight #navegation p.withoutborder { 
+background: none; 
+
+}
+
+#highlight #navegation p.selected { 
+background: url(../img/highlight/bg-selected.gif);
+
+
+}
+
+#highlight #navegation span { 
+font-size: 1.8em; 
+
+}
+
+#highlight #navegation p a { 
+color: white; 
+text-decoration: none; 
+padding: 10px 0 0 10px; 
+padding: 5px 0 0 5px; 
+display: block; 
+height: 48px; 
+width: 137px; 
+font: normal 130% 'Yanone kaffeesatz', arial, sans-serif;
+ 
+}

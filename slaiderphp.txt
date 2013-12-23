@@ -1,0 +1,36 @@
+      <?php
+			
+			    echo '<div id="slidorion">';
+				echo '<div id="slider">';
+			
+				$inc = 1;
+				
+				for ($i=0;$i<$tamano;$i++){
+				
+					$objInfo = $listaInformativa[$i];
+					echo '<div id="slide"'.$inc.'" class="slide">';
+					echo '<img src="'.$objInfo->getImagen().'" width="100%" height="415" />';
+					echo '</div>';
+					
+				}
+				echo '</div>';
+				echo '<div id="accordion">';
+				
+				for ($i=0;$i<$tamano;$i++){
+				
+					$objInfo = $listaInformativa[$i];
+
+					echo '<div class="link-header">'.utf8_encode($objInfo->getTitulo()).'</div>';
+					echo '<div class="link-content">';
+					echo '<p>'.utf8_encode($objInfo->getContenido()).'</p>';
+					echo '</div>';
+					
+					unset($objInfo);
+					
+				}
+				
+				echo '</div>';	
+				echo '</div>';
+
+				unset($listaInformativa);
+			?>

@@ -1,0 +1,63 @@
+/* CSS Document */
+#cabeceraInformativa{
+	width:100%;
+	background-color:#DFDFDF;
+	color:#036;	
+	-webkit-box-shadow: 0 0 34px #bbb;
+	-moz-box-shadow: 0 0 34px #bbb;
+	box-shadow: 0 0 34px #bbb;
+}
+
+#seccionInformacion{
+	background-color:#E5E5E5;
+	font-size:18px;
+	/*width:80%;*/
+	padding-right:1%;
+	padding-left:1%
+}
+
+
+.titulo {
+	background-image:url(../images/logoblanco.png) ;
+	background-color:#036;
+	/*width:80%;*/
+}
+
+.fondoContent{
+	background-color:#E5E5E5;
+	font-size:18px;
+	/*width:80%;*/
+	padding-right:1%;
+	padding-left:1%;
+}
+
+.lista{
+	cursor:pointer;
+	background:#E9E9E9;
+	padding-left:1%;
+	text-decoration:underline
+}
+
+.lista:hover{
+	background:#B3D9FF	
+}
+
+h2{
+	color:#FFF	
+}
+
+
+.listTvCabecera{
+
+	background-color:#036;
+	color:#FFF;
+	font-size:12px;	
+	
+}
+
+
+.listTv{
+	color:#000;
+	font-size:12px;	
+	
+}

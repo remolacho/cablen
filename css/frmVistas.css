@@ -1,0 +1,74 @@
+/* CSS Document */
+h2{
+	color:#FFF;
+	font:110% 'Yanone Kaffeesatz', arial, sans-serif;
+}
+
+.titulo{
+	background:#FF8000;
+	width:40%;	
+	padding-left:1%;
+	
+}
+.tituloForm{
+	background:#FF8000;
+	width:90%;	
+	padding-left:1%;
+	
+}
+#seccion{
+	/*background-image:url(../img/otros/informacion.png);*/
+	font-size:18px;
+}
+
+/*#seccionContent{
+    padding-top:5%;
+	padding-bottom:5%;
+	background-image:url(../images/informacion.png);
+	font-size:18px;	
+}*/
+
+.qs{
+	text-decoration:underline;
+    color:036;
+}
+.qs:hover{
+	text-decoration:none;
+	cursor:pointer;	
+	color:#C60;
+}
+
+input[type=text] {
+	width: 170px;
+}
+input[type=password]{
+	width: 170px;
+}
+
+.sombra{
+	background:#EEE;
+	-webkit-box-shadow: 0 0 34px #036;
+	-moz-box-shadow: 0 0 34px #036;
+	box-shadow: 0 0 34px #036;	
+	padding-left:1%;
+	padding-right:1%;
+	padding-bottom:1%;
+	padding-top:1%;
+
+}
+
+#cabeceraInfo{
+	width:100%;
+	background-color:#E5E5E5;
+	color:#036;	
+	-webkit-box-shadow: 0 0 34px #bbb;
+	-moz-box-shadow: 0 0 34px #bbb;
+	box-shadow: 0 0 34px #bbb;	
+}
+
+#form{
+	background:#F7F7F7;
+	width:90%;
+	padding-top:2%;
+	padding-bottom:2%;
+}

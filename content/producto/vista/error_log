@@ -1,0 +1,2 @@
+[07-Nov-2013 01:42:10] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (HY000/2013): Lost connection to MySQL server at 'sending authentication information', system error: 32 in /home/cablenor/public_html/helppers/Conexion.php on line 6
+[28-Nov-2013 17:22:54] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (HY000/2013): Lost connection to MySQL server at 'sending authentication information', system error: 32 in /home/cablenor/public_html/helppers/Conexion.php on line 6

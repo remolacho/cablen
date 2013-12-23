@@ -1,0 +1,9 @@
+[26-Sep-2013 10:59:39] PHP Fatal error:  Call to a member function getCodigo_abonado() on a non-object in /home/cablenor/public_html/app/pago/vista/Procesar.php on line 17
+[26-Sep-2013 11:04:27] PHP Fatal error:  Call to a member function getCodigo_abonado() on a non-object in /home/cablenor/public_html/app/pago/vista/Procesar.php on line 17
+[15-Nov-2013 06:51:29] PHP Fatal error:  Call to a member function getEstatus() on a non-object in /home/cablenor/public_html/app/pago/vista/Actualizar.php on line 111
+[15-Nov-2013 06:51:30] PHP Fatal error:  Call to a member function getEstatus() on a non-object in /home/cablenor/public_html/app/pago/vista/Actualizar.php on line 111
+[15-Nov-2013 06:52:02] PHP Fatal error:  Call to a member function getEstatus() on a non-object in /home/cablenor/public_html/app/pago/vista/Actualizar.php on line 111
+[15-Nov-2013 06:52:03] PHP Fatal error:  Call to a member function getEstatus() on a non-object in /home/cablenor/public_html/app/pago/vista/Actualizar.php on line 111
+[18-Nov-2013 21:14:54] PHP Fatal error:  Call to a member function getEstatus() on a non-object in /home/cablenor/public_html/app/pago/vista/Actualizar.php on line 111
+[18-Dec-2013 11:21:43] PHP Fatal error:  Call to a member function getEstatus() on a non-object in /home/cablenor/public_html/app/pago/vista/Actualizar.php on line 111
+[18-Dec-2013 14:13:22] PHP Fatal error:  Call to a member function getEstatus() on a non-object in /home/cablenor/public_html/app/pago/vista/Actualizar.php on line 111

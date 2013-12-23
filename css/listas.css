@@ -1,0 +1,58 @@
+.listaEncabezado{ background-color:#333333;
+	color:#FFF
+}
+
+.fondoLista{
+  background-color:#F3F3F3;
+  font:85% Arial, Helvetica, sans-serif
+
+}
+
+.fondoLista:hover{
+  background-color:#B7E8FF;
+  color:#003;
+  cursor:pointer
+}
+
+.tituloLitas{
+	 background-color:#003366;
+	 color:#FFF;
+	 font:80% Arial, Helvetica, sans-serif
+}
+
+.encabezado{   
+  background-color:#333333;
+  width: 930px; /*930*/
+  margin: 0 auto 0 auto;
+ }
+ 
+ 
+.linkError   
+{   
+	color:#F00;
+ 	text-decoration:none;
+	text-align:center;
+}  
+
+.divError   
+{ 
+  color:#F00;
+  /*background-color:#000;*/
+  text-align:center;
+  width: 500px; /*930*/
+  margin: 0 auto 0 auto;
+  /*display:none  */
+}  
+
+.coloRowI{
+	background:#E6E6E6;	
+}
+
+.colorRowP{
+	background:#FFF;
+}
+
+.paginar{
+	text-decoration:underline;
+	cursor:pointer	
+}

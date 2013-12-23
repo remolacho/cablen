@@ -1,0 +1,176 @@
+/* CSS Document */
+#cuerpoTotal{
+	margin:0 auto;
+	width:75%;
+	/*border:dashed;*/
+	background: #FFF;/* url(../images/informacion.png) fixed;*/
+    -webkit-border-radius: 0px 0px 13px 13px; 
+    -moz-border-radius: 0px 0px 13px 13px;
+    border-radius: 0px 0px 13px 13px;
+}
+
+body{
+ background: #fff url(../img/otros/back.jpg) no-repeat center fixed;
+/*background-color:#003871;*/
+ padding-top:20px;
+ padding-bottom:20px;
+}
+
+#cabecera{
+   background-color:#003871;
+	margin:0 auto;
+	width:100%;
+	-webkit-border-radius: 13px 13px 0px 0px; 
+    -moz-border-radius: 13px 13px 0px 0px;
+     border-radius: 13px 13px 0px 0px;
+	 box-shadow: 3px 3px 5px  #000000;
+	-webkit-box-shadow: 3px 3px 5px #000000;
+    -moz-box-shadow: 3px 3px 5px #000000;
+	filter: progid:DXImageTransform.Microsoft.Shadow(color='#000000', Direction=135, Strength=4);
+}
+
+/*#banner{
+  	margin-top:10px;
+	margin-left:20px;
+	margin-right:20px;
+	width:1075px
+}*/
+
+#logo{
+	float:left
+}
+
+.redesSociales{
+	margin-top:10px;
+	margin-right:10px;
+	float:right;
+}
+
+
+#perfil{
+	
+	background:#036;/* #4682B4;*/ /*#0DBBD5*/
+	margin:0 auto;
+	width:100%;
+	font: 130% 'Yanone Kaffeesatz', arial, sans-serif;
+    text-shadow: 1px 1px #0D7989;
+	color: #FFF;
+	box-shadow: 3px 3px 5px  #000000;
+	-webkit-box-shadow: 3px 3px 5px #000000;
+    -moz-box-shadow: 3px 3px 5px #000000;
+	filter: progid:DXImageTransform.Microsoft.Shadow(color='#000000', Direction=135, Strength=4);
+   /* border: solid 1px #191970;*/
+}
+
+
+#contenedor{
+    background-color:#FFF;
+	margin:0 auto;
+	width:100%;
+	/*padding-top:20px;*/
+	-webkit-border-radius: 0px 0px 13px 13px; 
+    -moz-border-radius: 0px 0px 13px 13px;
+    border-radius: 0px 0px 13px 13px;
+	box-shadow: 3px 3px 5px  #000000;
+	-webkit-box-shadow: 3px 3px 5px #000000;
+    -moz-box-shadow: 3px 3px 5px #000000;
+	filter: progid:DXImageTransform.Microsoft.Shadow(color='#000000', Direction=135, Strength=4);
+	/*border:dotted*/
+}
+
+
+#menuLeft{
+	margin:0 auto;
+	width:15%;
+	padding-left:1%;
+	padding-bottom:2%;
+	padding-top:2%;
+ 	color:#FFFFFF;
+	border-right:dotted;
+	float:left;
+	background-color:#FFF;
+	/*border-right:#003 solid 1px*/
+}
+
+.item{
+	background:#036;
+	font: 100% bold; 
+}
+
+.linkItem{
+	color:#FFF;
+	text-decoration:none;
+}
+
+.subItem{
+	background:#FFF;
+	font: 100% bold; 
+}
+
+.subItem:hover{
+	background:#B7E8FF;
+
+}
+
+.linkSubIten{
+
+	color:#000;
+	text-decoration:none;
+	/*padding-left:10px*/
+}
+
+
+#contenido{
+    font:90% 'Yanone Kaffeesatz', arial, sans-serif; 
+ 	margin:0 auto;
+	width:80%;
+	color:#333333;
+	float:left;
+	padding-bottom:20px;
+	padding-left:1%
+	/*border:dotted*/
+}
+
+
+#pie{
+	margin:0 auto;
+	width:100%;
+	background:#FFF;/*#4682B4;*/ /*#0DBBD5*/
+	font:80% 'Yanone Kaffeesatz', arial, sans-serif;
+   /* text-shadow: 1px 1px #0D7989;*/
+    height: 30px;
+	color:#036;
+	text-align: center; 
+    -webkit-border-radius: 0px 0px 13px 13px; 
+    -moz-border-radius: 0px 0px 13px 13px;
+    border-radius: 0px 0px 13px 13px;
+    border: solid 1px #191970;
+	padding-top:10px;
+	box-shadow: 3px 3px 5px  #000000;
+	-webkit-box-shadow: 3px 3px 5px #000000;
+    -moz-box-shadow: 3px 3px 5px #000000;
+	filter: progid:DXImageTransform.Microsoft.Shadow(color='#000000', Direction=135, Strength=4);
+}
+
+#limpiar{
+
+ clear:both
+
+}
+
+.frmTitulo{   
+  background-color:#036;
+  width: auto; /*930*/
+/*  margin: 0 auto 0 auto;*/
+  color:#FFF
+ }
+ 
+#bannerContenido{   
+	margin-left:0px;
+	margin-top:20px;
+	margin-right:auto
+ }
+ 
+hr{
+	background:#FFF
+}

@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>::Cable Norte::</title>
+<!-- TemplateEndEditable -->
+<meta name="description" content="website description" />
+<meta name="keywords" content="website keywords, website keywords" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="../css/main.css" />
+<link rel="stylesheet" href="../css/jquery.superbox.css" type="text/css" media="all" />
+<link rel="stylesheet" type="text/css" href="../css/index.css" />
+<link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+<script type="text/javascript" src="../js/jquery.min.js"></script>
+<script type="text/javascript" src="../js/jquery.superbox-min.js"></script>
+<script type="text/javascript" src="../helppers/js/validacion_event.js"></script>
+<script type="text/javascript" src="../helppers/js/main.js"></script>
+<script type="text/javascript">
+	$(function(){	 	
+			$.superbox();
+	});
+</script>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="menuTop">
+   <div class="itemTop">
+  	 <a href="../contacto.html" class="linkItemTop" rel="superbox[iframe][700x500]">Contactanos</a>
+   </div>
+ 
+   <div class="itemTop"><a href="../content/oficina/vista/index.php" class="linkItemTop">Nuestras Oficinas</a></div>
+
+   <div class="itemTop"><a href="#" class="linkItemTop">Preguntas</a></div>
+
+   <div class="itemTop"><a href="../somos.html" class="linkItemTop">Quienes Somos</a></div>
+
+   <div class="itemTop"><a href="../index.php" class="linkItemTop" >Inicio </a></div> 
+   <div class="clear"></div> 
+</div>
+<!-- TemplateBeginEditable name="script" -->script<!-- TemplateEndEditable -->
+<div id="cabecera">
+  <div id="logo"><img src="../img/main/logoblanco.png" width="100%" height="118"/>	</div>
+  <div class="redesSociales"><a href="https://twitter.com/cablenortetv"><img src="../img/main/logo2twitter.png"></a> 
+  </div> 
+  <div class="redesSociales"><img src="../img/main/facebook_logo1.png" /></div> 
+  <div class="clear"></div>
+  <!-- TemplateBeginEditable name="informacion" -->informacion<!-- TemplateEndEditable -->
+</div>
+<div id="contenedor">
+   <div id="menuRight">
+   		<div id="banner"><img src="../img/main/cont12.png"  width="100%"/> </div>
+   		<div><a href="../app/index.php" class="linkItemL"><img id="cnLinea" src="../img/main/online.png"/></a></div>    
+        <br />  
+        <div id="informacion1">
+            	<a href="../content/informacion/vista/index.php">
+                <img src="../img/main/fondoDivNot.png" width="100%" height="100"/>
+                </a>
+        </div> 
+        <div id="informacion2">
+             <a href="../content/evento/vista/index.php">
+                <img src="../img/main/fondoEvent.png" width="100%" height="100"/>
+             </a>
+        </div>    
+        <div id="informacion0"> 
+             <a href="#" class="sinLineas">          
+            	<img src="../img/main/fondoLibre.png" width="100%" height="100" />
+             </a>
+        </div>           
+        <div id="informacion3">
+			 <a href="#">
+                <img src="../img/main/divInt.png" width="100%" height="100"/>
+             </a>
+        </div>  
+   </div>
+   		<!-- TemplateBeginEditable name="Informacion" -->Informacion<!-- TemplateEndEditable -->    	
+   <div class="clear">
+   </div>
+</div>
+<div id="pie">
+   	<footer>Todos los derechos reservados | Cable Norte C.A RIF J-31216176-0 | Telf. 0501-6678300 
+      | Correo contacto@cablenorte.net
+    </footer>
+</div>
+</body>
+</html>
